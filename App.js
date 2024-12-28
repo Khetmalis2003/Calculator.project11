@@ -60,7 +60,7 @@ const App = () => {
           </View>
         ))}
       </View>
-      <Text style={styles.footer}>Calc by Swapnil</Text>
+      <Text style={styles.footer}>Calc by Rohan</Text>
     </View>
   );
 };
